@@ -25,13 +25,6 @@
 }
 
 body {
-  /* 
-  background-image: url("../img/bg-mobile.jpg");
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover; 
-  */
-  /* background: color image repeat position/size; */
   background: var(--bg-url) no-repeat top center/cover;
 }
 
@@ -47,15 +40,12 @@ body * {
 }
 
 /* profile */
-
 #profile {
   text-align: center;
   padding: 24px;
 }
 
 #profile img {
-  /* display: block; */
-  /* margin: auto; */
   width: 112px;
 }
 
